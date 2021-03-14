@@ -1,0 +1,1 @@
+{"chatbool":"true","Rankingbool":"false","ChannelPoits":"true","steamTitel":"false"}
